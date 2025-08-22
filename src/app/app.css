@@ -15,7 +15,7 @@
 
 .header .overlap {
   position: relative;
-  width: 100vw;  /* 100% da largura da tela */
+  width: auto;  /* 100% da largura da tela */
 
 }
 
