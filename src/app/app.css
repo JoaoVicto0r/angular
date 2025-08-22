@@ -6,7 +6,7 @@
   display: grid;
   justify-items: center;
   align-items: start;
-  width: auto; /* ocupa a tela toda */
+  width: 100vw; /* ocupa a tela toda */
   height: 100vh; /* ocupa a tela toda */
   overflow: hidden;
 }
@@ -15,7 +15,7 @@
 
 .header .overlap {
   position: relative;
-  width: 110vw;  /* 100% da largura da tela */
+  width: 100vw;  /* 100% da largura da tela */
 
 }
 
